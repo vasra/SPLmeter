@@ -10,9 +10,7 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="SPL meter average testing.vi" Type="VI" URL="../SPL meter average testing.vi"/>
 		<Item Name="SPL meter RMS.vi" Type="VI" URL="../SPL meter RMS.vi"/>
-		<Item Name="SPL meter.vi" Type="VI" URL="../SPL meter.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="_2DArrToArrWfms.vi" Type="VI" URL="/&lt;vilib&gt;/sound2/lvsound2.llb/_2DArrToArrWfms.vi"/>
